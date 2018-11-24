@@ -1,0 +1,4 @@
+N=0
+While n<1
+n=n+3
+Print(n)
